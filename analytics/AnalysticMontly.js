@@ -1,10 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function Rating() {
+const AnalysticMontly = () => {
   return (
     <View>
-      <Text>Rating</Text>
+      <Text>AnalysticYearly</Text>
     </View>
   )
 }
+
+export default AnalysticMontly
